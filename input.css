@@ -12,6 +12,7 @@
     --color-black: hsl(0, 0%, 7%);
 
     --default-font-family: 'Barlow Semi Condensed', sans-serif;
+    --default-transition-duration: 150ms;
 }
 
 body {
